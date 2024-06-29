@@ -34,8 +34,5 @@ During this challenge, we’ll code out the following features:
 >
 
 
-## Example of Finished App
-
-This is an example of what the functionality should look like for the completed exercise. If you’d like to mimic this style, feel free to do so, but it is not required.
 
 
